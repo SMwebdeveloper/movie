@@ -1,4 +1,4 @@
-
+import Main from './Movie/Main';
 import './Movie/style.css'
 
 
